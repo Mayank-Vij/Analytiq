@@ -18,5 +18,5 @@
 ![Explorer-ChartType](assets/Chart-Explorer.png)
 *Select any chart type to build*
 
-![Explorer-BoxPlot](assets/Boxplot-ExplorerChat.png)
+![Explorer-BoxPlot](assets/Boxplot-ExplorerChart.png)
 *Custom box plot chart*

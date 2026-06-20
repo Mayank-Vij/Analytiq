@@ -15,8 +15,8 @@
 ![Explorer](assets/Explorer.png)
 *Build custom charts with clean, ID-filtered dropdowns*
 
-![Explorer - Chart Type](assets/Chart-Explorer.png)
+![Explorer - ChartType](assets/Chart-Explorer.png)
 *Select any chart type to build*
 
-![Explorer - Box Plot](assets/Boxplot-ExplorerChat.png)
+![Explorer - BoxPlot](assets/Boxplot-ExplorerChat.png)
 *Custom box plot chart*

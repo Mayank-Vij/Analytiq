@@ -111,7 +111,7 @@ def category_bar(df, category_col, metric, top_n=10):
         else:
             colors.append(_PALETTE[i % len(_PALETTE)])
 
-    title = f"Top {top_n} {category_col} by {metric}" + (" + Others" if has_others else "")
+    title = f"Top {top_n} {category_col} by {metric}" 
 
     fig = go.Figure(go.Bar(
         x=data[category_col], y=data[metric],

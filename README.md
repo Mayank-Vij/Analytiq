@@ -1,4 +1,4 @@
-[Landing Page](assets/Home.png)
+![Landing Page](assets/Home.png)
 *Shows the home page*
 
 ![Overview](assets/Dashboard.png)

@@ -470,7 +470,7 @@ with st.sidebar:
 
         st.markdown('<div class="sidebar-section">Configuration</div>', unsafe_allow_html=True)
         show_profile = st.toggle("Show dataset profile", value=False)
-        ai_insights = st.toggle("AI insights (requires GROQ_API_KEY)", value=False)
+        ai_insights = st.toggle("AI insights", value=False)
     else:
         show_profile = False
         ai_insights = False
@@ -624,7 +624,7 @@ with tab_overview:
         render_section("🤖", "AI-Generated Insights")
         st.markdown(
             '<div class="insights-card" style="color:#475569;font-style:italic;">'
-            'Enable "AI insights" in the sidebar (requires a GROQ_API_KEY environment variable).'
+            'Enable "AI insights" in the sidebar.'
             '</div>',
             unsafe_allow_html=True,
         )

@@ -1,5 +1,7 @@
+## 🖥 Demo
+
 ![Landing Page](assets/Home.png)
-*Shows the home page*
+*Landing page — upload any CSV or Excel file*
 
 ![Overview](assets/Dashboard.png)
 *Auto-detected KPIs and AI-generated insights*
@@ -7,15 +9,14 @@
 ![Charts](assets/Charts.png)
 *Smart chart selection based on dataset structure*
 
-![ All Charts](assets/Charts2.png)
-*Smart chart selection based on dataset structure*
+![All Charts](assets/Charts2.png)
+*Full auto-generated chart grid*
 
 ![Explorer](assets/Explorer.png)
 *Build custom charts with clean, ID-filtered dropdowns*
 
-![Explorer2](assets/Chart explorer.png)
-*Helps you select the custum chart*
+![Explorer - Chart Type](assets/Chart-Explorer.png)
+*Select any chart type to build*
 
-![Explorer3](assets/Box explorer.png)
-*Custom Box plot chart*
-
+![Explorer - Box Plot](assets/Boxplot-ExplorerChat.png)
+*Custom box plot chart*

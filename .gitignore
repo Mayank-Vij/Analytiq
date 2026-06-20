@@ -1,0 +1,44 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.Python
+
+# Environment variables — NEVER commit API keys
+.env
+*.env
+.env.local
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/
+
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution
+dist/
+build/
+*.egg-info/

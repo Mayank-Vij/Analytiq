@@ -9,7 +9,7 @@
 ![Charts](assets/Charts.png)
 *Smart chart selection based on dataset structure*
 
-![AllCharts](assets/Charts2.png)
+![All Charts](assets/Charts2.png)
 *Full auto-generated chart grid*
 
 ![Explorer](assets/Explorer.png)
